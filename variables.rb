@@ -13,3 +13,12 @@ hours_spent_working = 1.5
 tall = true
 smart = true
 good_looking = true
+
+first_name = "Brandon"
+last_name = "Moore"
+middle_name = "Ohio"
+
+puts first_name
+puts age
+puts cash
+puts weight
